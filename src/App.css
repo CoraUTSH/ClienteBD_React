@@ -1,0 +1,12 @@
+.datos{
+display: flex;
+flex-direction: column;
+width: 100%;
+align-items: center;
+padding-top: 25px;
+}
+.datos input{
+    width: 300px;
+    font-size: 18px;
+    padding-left: 10px;
+}
